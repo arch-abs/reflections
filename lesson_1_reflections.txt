@@ -1,0 +1,44 @@
+Q: How can dif be used to find bugs ?
+
+A: Diff can be used to find bugs easily.
+Suppose we have have 2 versiions of a progam, one of which works fine and the other has some bug. 
+Then we can compare the 2 files to see  where the difference lies and hence easily spot the bug.
+
+
+Q: How could having easy access to the entire history of a file make you a more efficient programmer in the long term ?
+
+A: If we have easy access to the entire history of a file,  we can keep a record of all the changes in the file.
+So, if anything doesn't work in a version or something gets broken,  we can always look back to version in which the bug was absent.
+
+
+Q: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+A: Manual commit is advantageous as it gives us the flexibility to save changes when we want to, this is usefull to avoid saving of versions taht wont work or that are illogical.
+But on the other hand there is a disadvantage of missing out on commiting important changes.
+
+
+Q: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+A: Git is designed specially for code.
+And a code based project might comprise of more that one similar or differrent types of file.
+So git allows tracking and saving of multiple files in one commit.
+On the other hand options like google docs are not meant for code so they keep track of only a single file.
+
+
+Q: How can you use the commands git log and git diff to view the history of files?
+
+A: Using git log we can see comitt IDs of various comitts.
+The comitt IDs of various comitts can be used to see difference between them using git diff.
+
+
+Q: How might using version control make you more confident to make changes that could break something?
+
+A: It givews confidence since we can test new things without fear of breaking up something,
+as we have a backup ready in by version control.
+
+
+Q: How Do You Want to Use Git?
+
+A: I wanna use git to keep track of my projects,
+so that if some thing goes wrong, I don't mess things up.
+Also as mentioned earlier it will give me confidence to try out radical changes.
