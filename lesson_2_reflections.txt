@@ -1,0 +1,9 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+
+A: When we initialize a git repository, a .git directory is created which stores all the meta data
+which keeps track of the history of files in the repository.
+We need to initialize a repository so that we can track changes made to the files in repo,
+and hence use version control.
+
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
