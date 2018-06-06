@@ -7,3 +7,10 @@ and hence use version control.
 
 
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A: 3 different stages of control.
+
+
+Q: How can you use the staging area to make sure you have one commit per logical change?
+
+A: Only stage files involved in that logical change. And commit them.
