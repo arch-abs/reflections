@@ -14,3 +14,8 @@ A: 3 different stages of control.
 Q: How can you use the staging area to make sure you have one commit per logical change?
 
 A: Only stage files involved in that logical change. And commit them.
+
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+A: Branches are helpful we want want to try out some experimental changes while keeping our working branch intact.
