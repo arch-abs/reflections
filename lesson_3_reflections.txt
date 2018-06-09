@@ -9,3 +9,10 @@ Q: Why might you want to always pull changes manually rather than having Git aut
 
 A: Autommatic pulling might occur at times when not really required or intended.
 Manual pulling gives us more control.
+
+
+Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A: Forking a is like cloning on to GitHub itself.
+Cloning is like creating another copy.
+Branching means a different route of commits.
