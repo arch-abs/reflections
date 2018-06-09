@@ -1,2 +1,11 @@
+Q: When would you want to use a remote repository rather than keeping all your work local?
+
+
 A: Incase our local branch is lost we can use remote as a backup.
 Also having commits uploaded to remote makes it easier collaborating from distance as we reviewing of code.
+
+
+Q: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+A: Autommatic pulling might occur at times when not really required or intended.
+Manual pulling gives us more control.
