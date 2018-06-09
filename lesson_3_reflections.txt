@@ -1,0 +1,2 @@
+A: Incase our local branch is lost we can use remote as a backup.
+Also having commits uploaded to remote makes it easier collaborating from distance as we reviewing of code.
