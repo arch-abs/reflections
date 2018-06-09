@@ -30,3 +30,9 @@ Q: What is the result of merging two branches together? Why do we represent it i
 
 A: On merging the new resultant branch is expected to have features of both the branches.
 Because it merge commit has 2 parents and hence it remembers about both of them.
+
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A: Con is that some times it detects  pretty obvious differences as conflicts.
+Pro is that it gives us more control to see and manage conflicts ourselves.
